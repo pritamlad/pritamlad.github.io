@@ -19,4 +19,4 @@ For a live demo of the base template, [click here](https://pritamlad.github.io/)
 
 ## License
 
-Licensed under the [MIT License](https://github.com/RyanFitzgerald/devfolio/blob/master/LICENSE.md).
+Licensed under the [MIT License](https://github.com/pritamlad/pritamlad.github.io/blob/source/LICENSE.md).
